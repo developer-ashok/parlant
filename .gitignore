@@ -22,3 +22,6 @@ scripts/fern/openapi
 fern.generate.log
 schematic_generation_test_cache.json
 test_timing.csv
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
